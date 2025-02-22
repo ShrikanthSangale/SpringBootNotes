@@ -43,7 +43,7 @@ CREATE DATABASE bookmanagment;
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/bookmanagment
 spring.datasource.username=root
-spring.datasource.password=your_password
+spring.datasource.password=root
 
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
